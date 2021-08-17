@@ -1,0 +1,136 @@
+{
+    "questions": {
+        "selectors": [
+            {
+                "image" : "../../resources/images/Luke.jpg",
+                "options": ["Selecciona un personaje:","Luke Skywalker","C-3PO","R2-D2","Darth Vader","Leia Organa"],
+                "correct": "1"
+            },
+            {
+                "image" : "../../resources/images/Han_Solo.jpg",
+                "options": ["Selecciona un personaje:","Anakin Skywalker","Wilhuff Tarkin","Chewbacca","Han Solo","Greedo"],
+                "correct": "4"
+            },
+            {
+                "image" : "../../resources/images/BobaFett.jpg",
+                "options": ["Selecciona un personaje:","IG-88","Bossk","Lando Calrissian","Mon Mothma","Boba Fett"],
+                "correct": "5"
+            },
+            {
+                "image" : "../../resources/images/Padme.png",
+                "options": ["Selecciona un personaje:","Qui-Gon Jinn","Nute Gunray","Padmé Amidala","Finis Valorum","Jar Jar Binks"],
+                "correct": "3"
+            },
+            {
+                "image" : "../../resources/images/Yod.png",
+                "options": ["Selecciona un personaje:","IG-88","Nute Gunray","Wilhuff Tarkin","Finis Valorum","Yoda"],
+                "correct": "5"
+            },
+            {
+                "image" : "../../resources/images/Obi.jpg",
+                "options": ["Selecciona un personaje:","Anakin Skywalker","Obi-Wan Kenobi","Chewbacca","Han Solo","Greedo"],
+                "correct": "2"
+            },
+            {
+                "image" : "../../resources/images/Chew.png",
+                "options": ["Selecciona un personaje:","Quarsh Panaka","Darth Maul","Chewbacca","Han Solo","Greedo"],
+                "correct": "3"
+            },
+            {
+                "image" : "../../resources/images/Jar.jpg",
+                "options": ["Selecciona un personaje:","IG-88","Darth Maul","Yoda","Jar Jar Binks","Greedo"],
+                "correct": "4"
+            },
+            {
+                "image" : "../../resources/images/Darth_Maul.png",
+                "options": ["Selecciona un personaje:","Quarsh Panaka","Darth Maul","Bib Fortuna","Ayla Secura","Dud Bolt"],
+                "correct": "2"
+            }
+        ],
+        "textQuestions": [
+            {
+                "text": "¿Cual es el peso de Luke Skywalker?",
+                "correct": "77"
+            },
+            {
+                "text": "¿Cuanto mide C-3PO?",
+                "correct": "167 cm"
+            },
+            {
+                "text": "¿Cual es el color de ojos de R5-D4?",
+                "correct": "rojos"
+            },
+            {
+                "text": "¿A que orden pertenece Darth Maul?",
+                "correct": "siths"
+            },
+            {
+                "text": "¿A que orden pertenece el maestro Yoda?",
+                "correct": "jedi"
+            },
+            {
+                "text": "¿De que color es el sable de Mace Windu?",
+                "correct": "morado"
+            },
+            {
+                "text": "¿Cual es el planeta de origen de Leia Organa?",
+                "correct": "alderaan"
+            },
+            {
+                "text": "¿Quíen es el maestro de Anakin Skywalker?",
+                "correct": "obi-wan kenobi"
+            },
+            {
+                "text": "¿Cual es el genero de Chewbacca?",
+                "correct": "masculino"
+            },
+            {
+                "text": "¿De que color es el sable de Luke Skywalker?",
+                "correct": "azul"
+            }
+
+        ],
+        "booleanQuestions": [
+            {
+                "text": "¿C-3PO es de genero masculino?",
+                "correct": false
+            },
+            {
+                "text": "¿Leia Organa mide 155 cm?",
+                "correct": false
+            },
+            {
+                "text": "¿El planeta de origen de Obi-Wan Kenobi es Stewjon?",
+                "correct": true
+            },
+            {
+                "text": "¿El color de pelo de Anakin Skywalker es rubio?",
+                "correct": true
+            },
+            {
+                "text": "¿El color de ojos de Han Solo es azul?",
+                "correct": false
+            },
+            {
+                "text": "¿Chewbacca pertence a la especie Wookie?",
+                "correct": true
+            },
+            {
+                "text": "¿El color de ojos de el maestro Yoda es verde?",
+                "correct": false
+            },
+            {
+                "text": "¿El senador Palpatine pertence a la orden de los sith?",
+                "correct": true
+            },
+            {
+                "text": "¿Boba Fett es de genero masculino?",
+                "correct": true
+            },
+            {
+                "text": "¿Jar Jar Binks es el personaje favorito de todo el universo starwars?",
+                "correct": false
+            }
+        ]
+    }
+}
